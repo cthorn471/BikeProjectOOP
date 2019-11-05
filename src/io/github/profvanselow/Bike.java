@@ -1,5 +1,7 @@
 package io.github.profvanselow;
 
+import java.util.ArrayList;
+
 public class Bike {
 
   private String handleBars, frame, tyres, seatType;
